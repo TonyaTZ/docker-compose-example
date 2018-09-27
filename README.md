@@ -1,3 +1,8 @@
-To run the application please run the following commands:
-    mvn clean package
-    sudo docker-compose up --build
+
+Required packages installed: 
+ _maven, docker, docker-compose_
+
+To **initialize** the project, please run `init.sh`
+
+To **run** the application please execute `run.sh`
+  
